@@ -1,5 +1,4 @@
 # ICPC - Nivel Básico
---
 ## Configuración de CS50
 ### Video de ayuda para la configuracion y comandos de primera clase [AQUI]()
 1. Visitar [CS50 IDE](https://ide.cs50.io/)
