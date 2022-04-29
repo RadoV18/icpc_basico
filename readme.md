@@ -8,5 +8,9 @@
 wget https://raw.githubusercontent.com/RadoV18/icpc_basico/main/configurar.sh && chmod +x configurar.sh
 ```
 
+```
+./configurar.sh
+```
+
 4. Añadir llaves a github
 --
