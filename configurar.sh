@@ -12,6 +12,7 @@ echo "Host github.com
 
 clear
 
+echo
 echo "======================= TU LLAVE SSH ES ======================="
 echo
 echo "$(<.ssh/id_rsa.pub)"
