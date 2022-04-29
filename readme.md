@@ -13,4 +13,3 @@ wget https://raw.githubusercontent.com/RadoV18/icpc_basico/main/configurar.sh &&
 ```
 
 4. Añadir llaves a github
---
