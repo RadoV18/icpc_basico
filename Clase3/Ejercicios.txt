@@ -1,0 +1,23 @@
+a) Identificar cuantos números son pares del 1 al 100, utilizando un while, un for y un do while
+b) Calcular el promedio de n estudiantes:
+    
+    INPUT
+    
+    Ingrese la cantidad de estudiantes: 3
+    Ingrese la nota del estudiante 1: 50
+    Ingrese la nota del estudiante 2: 60
+    Ingrese la nota del estudiante 3: 71
+    
+    OUTPUT
+    
+    El promedio del curso es igual a: 60.33
+
+c) Validar cuantos números son primos hasta n
+
+    INPUT   
+    
+    Ingrese el limite: 5
+    
+    OUTPUT
+    
+    Existen 3 números primos
