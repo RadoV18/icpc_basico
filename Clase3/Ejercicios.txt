@@ -21,3 +21,5 @@ c) Validar cuantos números son primos hasta n
     OUTPUT
     
     Existen 3 números primos
+    
+    No se Olviden que puden ganar pipocas de pollo gratis
